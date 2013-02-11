@@ -1,0 +1,13 @@
+!SESSION 2013-01-05 20:54:44.442 -----------------------------------------------
+eclipse.buildId=v21.0.0-519525
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -keyring /Users/lynguyen/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -product com.android.ide.eclipse.adt.package.product -data /Users/lynguyen/BusinessOrganizer -product com.android.ide.eclipse.adt.package.product -keyring /Users/lynguyen/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-01-05 20:54:48.873
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2013-01-05 20:54:48.994
+!MESSAGE DDMS files not found: /Users/lynguyen/Downloads/adt-bundle-mac/eclipse/Eclipse.app/Contents/MacOS/platform-tools/adb /Users/lynguyen/Downloads/adt-bundle-mac/eclipse/Eclipse.app/Contents/MacOS/tools/hprof-conv /Users/lynguyen/Downloads/adt-bundle-mac/eclipse/Eclipse.app/Contents/MacOS/tools/traceview 
